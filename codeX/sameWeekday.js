@@ -1,0 +1,4 @@
+/*
+Write a function called sameWeekday that takes in two dates and check if both dates have the same weekday. 
+For example if both dates are a Monday the function should return true.
+*/
